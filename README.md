@@ -1,3 +1,4 @@
 # panda-demo
-This is my second git repository
-Author-Mukha
+This is my second git repository.
+<br>
+Author-Mukha.
